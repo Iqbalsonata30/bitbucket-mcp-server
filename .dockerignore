@@ -1,0 +1,6 @@
+target
+fuzz/target
+.git
+.github
+*.local.toml
+.env

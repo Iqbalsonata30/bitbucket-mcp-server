@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/iqbalsonata/BRI/agentic-daily-work/tools/bitbucket-mcp-server/fuzz/target/debug/build/mime_guess-16dcc12dddb17630/out/mime_types_generated.rs
